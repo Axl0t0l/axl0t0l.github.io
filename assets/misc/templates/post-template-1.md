@@ -1,6 +1,24 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +0200
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
+title: TITLE-HERE
+date: YYYY-MM-DD HH-MM-SS +0200
+categories: [CATEGORY, SUB-CATEGORY]
+tags: [TAGS, TAGS]     
 ---
+
+![](/assets/img/logos/THM-logo.png){: w="400" h="400" }
+
+## Overview
+- **Platform:** [PLATFORM_NAME](https://CHALLENGE-PLATFORM.COM)
+- **Challenge:** [CHALLENGE_NAME](https://CHALLENGE-LINK.COM)
+- **Categories:** Misc, Machines, Crypto, Pwn, Web, OSINT
+- **Rating:** 
+- **Difficulty:**
+- **Sovling Time:** ~TIME
+
+## Challenge
+> "*CHALLENGE-DISCRIPTION-HERE*"
+
+## Solution Approach
+
+## Flag
+```FLAG{}```
