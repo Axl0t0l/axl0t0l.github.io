@@ -1,0 +1,147 @@
+---
+title: TITLE
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [Guides, Pentesting Guides]
+tags: [guide]     
+pin: true
+---
+# Recon
+
+#### Goal:
+Identify the attack surface and decide where to enumerate.
+#### Scope:
+Broad, non-destructive discovery.
+
+## Network Recon
+- Host discovery
+- Port scanning
+- Service identification
+
+## Web Recon
+- Page source
+- Headers
+- Tech stack
+- robots.txt
+- JS file discovery
+
+## DNS / OSINT Recon
+- Domains
+- Subdomains
+- Public records
+
+## Output of Recon
+- Target map
+- Services list
+- Technologies
+- Enumeration targets
+
+
+# Enumeration
+
+#### Goal:
+Extract **detailed, actionable information** from each discovered service in order to identify **exploitable weaknesses**.
+Enumeration explains **how things behave**, not just that they exist.
+#### Scope:
+- Targeted and interactive
+- Based strictly on Recon results
+- No exploitation yet (unless unavoidable)
+
+## 1. Service Enumeration:
+
+### Enumerate
+- Service versions and enabled modules
+- Authentication methods
+- Anonymous or guest access
+- Default or weak configurations
+
+### Examples
+- SSH: banner information, authentication methods (nmap -sV -sC)
+- FTP: anonymous login, writable directories 
+- SMB: available shares, permissions (smb4linux -a)
+- Databases: exposed ports, default credentials
+Iwould recommend seeing [this](https://ghostpatch.gitbook.io/hexdefender/penetration-testing/exploitation-techniques/service-enumeration) for for info.
+
+## 2. Web Enumeration:
+
+### Directory and File Enumeration
+Look for:
+- Admin panels
+- Backup files
+- Old or test versions
+- Configuration files
+use [dirb](https://www.kali.org/tools/dirb/) or [gobuster](https://3os.org/penetration-testing/cheatsheets/gobuster-cheatsheet/)
+
+
+### Parameter Enumeration
+Identify:
+- GET parameters
+- POST parameters
+- JSON keys
+- Cookies
+- Headers
+- Common web vulnerabilities (IDOR, SQLi, XSS, LFI, CSRF, SSRF, command injection and ect......)
+
+Test:
+- Missing parameters
+- Unexpected values
+- Type changes (integer to string, etc...)
+
+### Authentication Enumeration
+Check for:
+- Username validity leaks
+- Error message differences
+- Password reset flaws
+- Missing or weak rate limits
+
+### API Enumeration
+Enumerate:
+- Versioned endpoints
+- Debug or test routes
+- Unauthenticated endpoints
+- Overly verbose responses
+
+## 3. User Enumeration:
+
+### Sources
+- Login and password reset pages
+- API responses
+- SMB, LDAP, or FTP services
+
+## 4. Permission Enumeration:
+
+Enumerate:
+- Read permissions
+- Write permissions
+- Role boundaries
+- Object ownership issues (IDOR)
+
+## 5. Enumeration After Initial Access:
+
+Look for:
+- Configuration files
+- Stored credentials
+- Internal services
+- Scheduled tasks
+- Sudo rules
+- SUID 
+
+BONUS CHEATSHEET! [Here](https://gtfobins.github.io/)
+
+## Enumeration Output
+By the end of enumeration you should have:
+- Services fully mapped
+- Inputs clearly identified
+- Users discovered
+- Trust assumptions documented
+- Clear exploit candidates
+
+If not, enumerate again (:.
+
+## Enumeration Checklist
+- All services enumerated 
+- Hidden endpoints discovered
+- Inputs identified
+- Users enumerated
+- Permissions mapped
+- Errors analyzed
+<!-- FLAG{y0u50tm3} -->
