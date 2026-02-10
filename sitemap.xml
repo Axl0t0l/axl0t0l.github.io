@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://axl0t0l.github.io/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/categories/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/tags/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/archives/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/about/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/posts/Pentesting-Basics/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/posts/DigDug/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/tags/guide/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/tags/machines/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/tags/misc/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/categories/guides/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/categories/pentesting-guides/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/categories/tryhackme/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://axl0t0l.github.io/categories/challenges/</loc>
+  <lastmod>2026-02-10T23:38:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
