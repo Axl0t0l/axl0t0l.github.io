@@ -18,12 +18,12 @@ tags: [TAGS, TAGS]
 ## Challenge
 > "*CHALLENGE-DISCRIPTION-HERE*"
 
-## Solution Approach
+## Walkthrough
 ### Recon
 
 {RECON-HERE}
 
-### Walkthrough
+### Solution Approach
 #### First Question 
 > "*QUESTION-REQUIRMENT-HERE*"
 
