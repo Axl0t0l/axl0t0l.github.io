@@ -1,5 +1,6 @@
 ---
 title: Digital Footprint | TryHackMe
+description: a Writeup for "Digital Footprint" Challenge on TryHackMe.
 date: 2026-02-10 22-00-00 +0200
 categories: [TryHackMe, Challenges]
 tags: [OSINT]     
