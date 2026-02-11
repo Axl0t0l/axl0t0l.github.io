@@ -43,11 +43,11 @@ if we use google for ```GPS Latitude: 26 deg 12' 14.76", GPS Longitude: 28 deg 2
 
 #### Second Question 
 > "*ACME Jet Solutions (warc-acme.com/jef/), is all over social meda claiming they were founded in 2025 and that they're the fastest-growing data company in Africa.
-> But something doesn't add up, one of their ex-employees ensures you that the company existed long before that.
+> But something doesn't add up, one of their ex-employees ensures you that the company existed long before that.*
 >
-> Your job as an OSINT investigator is to verify their founding date using only public information.
+> *Your job as an OSINT investigator is to verify their founding date using only public information.*
 >
-> Flag Format: THM{YYYYMMDDHHMMSS}*"
+> **Flag Format: THM{YYYYMMDDHHMMSS}**"
 
 
 Lets try to look for WHOIS DNS records at [WHOIS](https://who.is/)
@@ -64,13 +64,13 @@ and we got it!!
 ***
 
 #### Third Question 
-> "*Further Investigation uncovers another image believed to be connected to the company's international expansion.
+> "*Further Investigation uncovers another image believed to be connected to the company's international expansion.*
 >
-> Research reveals that to the right of the iconic landmark is a building that played a big role in the fight for independence of a particular country. Signs on the external wall provides the name of the building. 
+> *Research reveals that to the right of the iconic landmark is a building that played a big role in the fight for independence of a particular country. Signs on the external wall provides the name of the building.*
 >
-> Submit the name of building translated into English as the flag.
+> *Submit the name of building translated into English as the flag.*
 >
-The flag format is THM{Landmark}*"
+> **The flag format is THM{Landmark}**"
 ![ ](/assets/img/posts/2026-02-10-DigitalFootprint/landmark-1763035881792.JPG)
 
 
@@ -85,9 +85,9 @@ we can see office post there, it fits for a perfect landmark.
 ***
 
 #### Fourth Question 
-> "*After uncovering ACME Jet Solutions origins and tracing their online presence through archived websites and international landmarks, investigators believe that an internal document was accidentally leaked by one of the company's developers. 
+> "*After uncovering ACME Jet Solutions origins and tracing their online presence through archived websites and international landmarks, investigators believe that an internal document was accidentally leaked by one of the company's developers.* 
 >
-> The document may contain crucial information about the individual responsible for maintaining their systems.*"
+> *The document may contain crucial information about the individual responsible for maintaining their systems.*"
 
 
 We have a compressed file here lets unzip it.
