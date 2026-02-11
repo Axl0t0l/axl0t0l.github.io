@@ -1,5 +1,5 @@
 ---
-title: TITLE-HERE
+title: TITLE-HERE | PLATFORM
 date: YYYY-MM-DD HH-MM-SS +0200
 categories: [CATEGORY, SUB-CATEGORY]
 tags: [TAGS, TAGS]     
@@ -18,7 +18,14 @@ tags: [TAGS, TAGS]
 ## Challenge
 > "*CHALLENGE-DISCRIPTION-HERE*"
 
-## Solution Approach
+## Walkthrough
+### Recon
 
-## Flag
+{RECON-HERE}
+
+### Solution Approach
+> "*QUESTION-REQUIRMENT-HERE*"
+
+{QUESTION-EXPLNATION-HERE}
+### Flag
 ```FLAG{}```
