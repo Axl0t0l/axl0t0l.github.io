@@ -33,7 +33,7 @@ and there we go, there were metadata!
 ![ ](/assets/img/posts/2026-02-10-DigitalFootprint/exiftool.png)
 
 
-if we use google maps for ```GPS Latitude: 26 deg 12' 14.76", GPS Longitude: 28 deg 2' 50.28"``` we get:
+if we use google for ```GPS Latitude: 26 deg 12' 14.76", GPS Longitude: 28 deg 2' 50.28"``` we get:
 ![ ](/assets/img/posts/2026-02-10-DigitalFootprint/city.png)
 
 ##### Flag
