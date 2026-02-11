@@ -31,4 +31,4 @@ tags: [TAGS, TAGS]
 ```FLAG{}```
 
 
-***Hope you enjoined the writeup, Don't forget to leave a comment or a star for the [github repo](https://github.com/Axl0t0l) (;***
+***Hope you enjoined the writeup, Don't forget to leave a comment or a star on the [github repo](https://github.com/Axl0t0l) (;***
