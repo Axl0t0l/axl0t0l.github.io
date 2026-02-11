@@ -1,0 +1,45 @@
+---
+title: Digital Footprint | TryHackMe
+date: 2026-02-10 22-00-00 +0200
+categories: [TryHackMe, Challenges]
+tags: [OSINT]     
+---
+
+![](/assets/img/logos/THM-logo.png){: w="400" h="400" }
+
+## Overview
+- **Platform:** [TryHackMe](https://tryhackme.com/)
+- **Challenge:** [Digital Footprint](https://tryhackme.com/room/osintchallengeiv)
+- **Categories:** OSINT
+- **Rating:** 
+- **Difficulty:** Easy
+- **Sovling Time:** ~TIME
+
+## Challenge
+> "*An ACME Jet Solutions employee uploaded a photo of a residential property believed to be linked to ACME Jet's early operations. Can you figure out where the picture was taken to confirm or debunk the rumour?*"
+
+## Walkthrough
+### Solution Approach
+#### First Question 
+> "*In which city was the photo taken?*"
+![]()
+
+
+{FIRST-QUESTION-EXPLNATION-HERE}
+
+##### Flag
+```FLAG{}```
+
+***
+
+#### Second Question 
+> "*QUESTION-REQUIRMENT-HERE*"
+
+
+{SECOND-QUESTION-EXPLNATION-HERE}
+
+##### Flag
+```FLAG{}```
+
+
+***Hope you enjoined the writeup, Don't forget to leave a comment or a star on the [github repo](https://github.com/Axl0t0l) (;***
