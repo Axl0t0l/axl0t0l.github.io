@@ -11,16 +11,16 @@ tags: [OSINT]
 - **Platform:** [TryHackMe](https://tryhackme.com/)
 - **Challenge:** [Digital Footprint](https://tryhackme.com/room/osintchallengeiv)
 - **Categories:** OSINT
-- **Rating:** 
+- **Rating:** 9/10
 - **Difficulty:** Easy
-- **Sovling Time:** 10~15 Minutes
+- **Sovling Time:** 20~25 Minutes
 
 ## Challenge
 > "*An ACME Jet Solutions employee uploaded a photo of a residential property believed to be linked to ACME Jet's early operations. Can you figure out where the picture was taken to confirm or debunk the rumour?*"
 
 ## Walkthrough
 ### Solution Approach
-#### First Question <a name="first-question"></a>
+#### First Question
 > "*In which city was the photo taken?*"
 ![Credits: TryHackMe](/assets/img/posts/2026-02-10-DigitalFootprint/edited-house-1763031553617.jpg)
 
