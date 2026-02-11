@@ -54,7 +54,8 @@ Lets try to look for WHOIS DNS records at [WHOIS](https://who.is/)
 
 ![ ](/assets/img/posts/2026-02-10-DigitalFootprint/whois.png)
 
-and its empty. what about checking [Wayback Machine for the file?](https://archive.org/details/warc-acme.com-jef)
+and its empty. 
+what about checking [Wayback Machine for the file?](https://archive.org/details/warc-acme.com-jef)
 and we got it!!
 ![ ](/assets/img/posts/2026-02-10-DigitalFootprint/waybackmachine.png)
 ##### Flag
