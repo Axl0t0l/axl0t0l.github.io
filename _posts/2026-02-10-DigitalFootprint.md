@@ -5,7 +5,7 @@ categories: [TryHackMe, Challenges]
 tags: [OSINT]     
 ---
 
-![](/assets/img/logos/THM-logo.png){: w="400" h="400" }
+![ ](/assets/img/logos/THM-logo.png){: w="400" h="400" }
 
 ## Overview
 - **Platform:** [TryHackMe](https://tryhackme.com/)
@@ -30,11 +30,11 @@ Hmmm, lets use ```exifftool``` on the image to see if there is any metadata.
 exiftool edited-house-1763031553617.jpg
 ```
 and there we go, there were metadata!
-![](/assets/img/posts/2026-02-10-DigitalFootprint/exiftool.png)
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/exiftool.png)
 
 
 if we use google maps for ```GPS Latitude: 26 deg 12' 14.76", GPS Longitude: 28 deg 2' 50.28"``` we get:
-![](/assets/img/posts/2026-02-10-DigitalFootprint/city.png)
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/city.png)
 
 ##### Flag
 ```THM{Johannesburg}```
@@ -52,11 +52,11 @@ Flag Format: THM{YYYYMMDDHHMMSS}*"
 
 Lets try to look for WHOIS DNS records at [WHOIS](https://who.is/)
 
-![](/assets/img/posts/2026-02-10-DigitalFootprint/whois.png)
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/whois.png)
 
 and its empty. what about checking [Wayback Machine for the file?](https://archive.org/details/warc-acme.com-jef)
 and we got it!!
-![](/assets/img/posts/2026-02-10-DigitalFootprint/waybackmachine.png)
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/waybackmachine.png)
 ##### Flag
 ```THM{20160210224602}```
 
@@ -70,11 +70,11 @@ Research reveals that to the right of the iconic landmark is a building that pla
 Submit the name of building translated into English as the flag.
 
 The flag format is THM{Landmark}*"
-![](/assets/img/posts/2026-02-10-DigitalFootprint/landmark-1763035881792.JPG)
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/landmark-1763035881792.JPG)
 
 
 We simply reverse search the image on google, and we get:
-![](/assets/img/posts/2026-02-10-DigitalFootprint/thespire.png)
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/thespire.png)
 
 we can see office post there, it fits for a perfect landmark.
 
@@ -89,10 +89,17 @@ we can see office post there, it fits for a perfect landmark.
 The document may contain crucial information about the individual responsible for maintaining their systems.*"
 
 
-{}
+We have a compressed file here lets unzip it, and we got this:
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/fileexplorer.png)
+
+```meta.xml``` looks interisting, lets open it. And we got this first clue!:
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/markwilliams7243.png)
+
+after digging through his socials, I found the flag on his YouTube!!
+![ ](assets/img/posts/2026-02-10-DigitalFootprint/youtube.png)
 
 ##### Flag
-```FLAG{}```
+```THM{Y0u_f0und_7h3_fin4l_fl4g!}```
 
 
 ***Hope you enjoined the writeup, Don't forget to leave a comment or a star on the [github repo](https://github.com/Axl0t0l) (;***
