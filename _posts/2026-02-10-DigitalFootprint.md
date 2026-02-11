@@ -96,7 +96,7 @@ We have a compressed file here lets unzip it, and we got this:
 ![ ](/assets/img/posts/2026-02-10-DigitalFootprint/markwilliams7243.png)
 
 after digging through his socials, I found the flag on his YouTube!!
-![ ](assets/img/posts/2026-02-10-DigitalFootprint/youtube.png)
+![ ](/assets/img/posts/2026-02-10-DigitalFootprint/youtube.png)
 
 ##### Flag
 ```THM{Y0u_f0und_7h3_fin4l_fl4g!}```
