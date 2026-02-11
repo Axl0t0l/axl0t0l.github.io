@@ -90,10 +90,14 @@ we can see office post there, it fits for a perfect landmark.
 > The document may contain crucial information about the individual responsible for maintaining their systems.*"
 
 
-We have a compressed file here lets unzip it, and we got this:
+We have a compressed file here lets unzip it.
+
+and we got this:
 ![ ](/assets/img/posts/2026-02-10-DigitalFootprint/fileexplorer.png)
 
-```meta.xml``` looks interisting, lets open it. And we got this first clue!:
+```meta.xml``` looks interisting. lets open and look for something interesting. 
+
+And we got our first clue!:
 ![ ](/assets/img/posts/2026-02-10-DigitalFootprint/markwilliams7243.png)
 
 after digging through his socials, I found the flag on his YouTube!!
