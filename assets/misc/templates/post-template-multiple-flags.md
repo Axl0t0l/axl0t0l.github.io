@@ -4,7 +4,8 @@ description: DESCRIPTION-HERE
 date: YYYY-MM-DD HH-MM-SS +0200
 categories: [CATEGORY, SUB-CATEGORY]
 tags: [TAGS, TAGS]
-image: path/to/display/image    
+image: path/to/display/image   
+permalink: /posts/PLATFORM/TITLE
 ---
 
 ![](/assets/img/logos/THM-logo.png){: w="400" h="400" }
