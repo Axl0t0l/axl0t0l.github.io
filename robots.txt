@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://axl0t0l.github.io/sitemap.xml
