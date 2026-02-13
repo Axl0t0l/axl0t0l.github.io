@@ -5,6 +5,7 @@ date: 2026-02-10 22-00-00 +0200
 categories: [TryHackMe, Challenges]
 tags: [OSINT] 
 image: assets/img/posts/2026-02-10-DigitalFootprint/DigitalFootprint.png 
+permalink: /posts/tryhackme/DigitalFootprint
 ---
 
 ![ ](/assets/img/logos/THM-logo.png){: w="400" h="400" }
