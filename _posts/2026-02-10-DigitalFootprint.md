@@ -110,4 +110,4 @@ after digging through his socials, I found the flag on his YouTube!!
 ```THM{Y0u_f0und_7h3_fin4l_fl4g!}```
 
 
-***Hope you enjoined the writeup, Don't forget to leave a comment or a star on the [github repo](https://github.com/Axl0t0l) (;***
+***Hope you enjoyed the writeup, Don't forget to leave a comment or a star on the [github repo](https://github.com/Axl0t0l) (;***
