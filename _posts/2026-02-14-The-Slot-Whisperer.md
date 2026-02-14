@@ -8,7 +8,7 @@ image: assets/img/logos/0xFun.png
 permalink: /posts/0xfun/TheSlotWhisperer
 ---
 
-![](/assets/img/logos/0xFun.png){: w="400" h="400" }
+![](/assets/img/logos/axl0t0l.png){: w="400" h="400" }
 
 ## Overview
 - **Platform:** [0xFun](https://ctf.0xfun.org/)
