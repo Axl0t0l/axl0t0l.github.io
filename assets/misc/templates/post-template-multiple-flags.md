@@ -16,7 +16,7 @@ permalink: /posts/PLATFORM/TITLE
 - **Categories:** Misc, Machines, Crypto, Pwn, Web, OSINT
 - **Rating:** 
 - **Difficulty:**
-- **Sovling Time:** ~TIME
+- **Solving Time:** ~TIME
 
 ## Challenge
 > "*CHALLENGE-DISCRIPTION-HERE*"
