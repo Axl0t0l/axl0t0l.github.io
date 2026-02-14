@@ -34,4 +34,4 @@ permalink: /posts/PLATFORM/TITLE
 ```FLAG{}```
 
 
-***Hope you enjoined the writeup, Don't forget to leave a comment or a star on the [github repo](https://github.com/Axl0t0l) (;***
+***Hope you enjoyed the writeup, Don't forget to leave a comment or a star on the [github repo](https://github.com/Axl0t0l) (;***
