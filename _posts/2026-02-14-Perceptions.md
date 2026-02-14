@@ -5,7 +5,7 @@ date: 2026-02-14 21-00-00 +0200
 categories: [0xFun CTF 2026, WarmUp]
 tags: [Web]  
 image: assets/img/logos/0xFun.png
-permalink: /posts/0xfun/Shell
+permalink: /posts/0xfun/Perceptions
 ---
 
 ![](/assets/img/logos/0xFun.png){: w="400" h="400" }
