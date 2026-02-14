@@ -16,7 +16,7 @@ permalink: /posts/tryhackme/DigitalFootprint
 - **Categories:** OSINT
 - **Rating:** 9/10
 - **Difficulty:** Easy
-- **Sovling Time:** 20~25 Minutes
+- **Solving Time:** 20~25 Minutes
 
 ## Challenge
 > "*An ACME Jet Solutions employee uploaded a photo of a residential property believed to be linked to ACME Jet's early operations. Can you figure out where the picture was taken to confirm or debunk the rumour?*"
