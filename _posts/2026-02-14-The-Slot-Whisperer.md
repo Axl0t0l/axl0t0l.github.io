@@ -68,9 +68,7 @@ The machine doesn't show us the full internal state Sn it only shows us ```spin 
 The Vulnerability LCGs are entirely deterministic. If you know the internal state S_n at any point, you can calculate all future "random" numbers.
 While we are only given the last two digits of the state (the remainder when divided by 100), the modulus M is small enough for a brute-force attack.
 #### Solving Script
-```py
-#!/usr/bin/env python3
-
+```py
 # LCG Parameters provided in the challenge
 M = 2147483647
 A = 48271
