@@ -46,7 +46,7 @@ with open("output", "wb") as f:
     f.write(current)
 ```
 #### Code Output
-![](/assets/img/posts/2026-02-14-Leonine-Misbegotten/output)
+![Get files here!!](/assets/img/posts/2026-02-14-Leonine-Misbegotten/output)
 
 ### Solution Approach
 > "*Flag format: ```0xfum{}```*"
