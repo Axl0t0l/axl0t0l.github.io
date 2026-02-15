@@ -28,8 +28,6 @@ It looks like normal *flawed* random number generator
 
 #### The Machine Script
 ```py
-#!/usr/bin/env python3
-
 class SlotMachineLCG:
     def __init__(self, seed=None):
         self.M = 2147483647
