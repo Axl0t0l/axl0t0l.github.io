@@ -4,7 +4,7 @@ description: a writeup for "Leonine Misbegotten" challenge in 0xFun CTF 2026.
 date: 2026-02-14 21-00-00 +0200
 categories: [0xFun CTF 2026, WarmUp]
 tags: [Crypto]  
-image: assets/img/logos/0xfun.png
+image: assets/img/logos/0xFun.png
 permalink: /posts/0xfun/LeonineMisbegotten
 ---
 
