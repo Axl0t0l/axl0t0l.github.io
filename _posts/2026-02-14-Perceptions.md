@@ -24,7 +24,7 @@ permalink: /posts/0xfun/Perceptions
 ## Walkthrough
 ### Recon
 
-The website looks very noraml, just we have a login page, later on that later.
+The website looks very normal, just we have a login page, later on that later.
 
 Something looks fishy in ```Secret Post```, by viewing the page source we can see some credentials:
 ![](/assets/img/posts/2026-02-14-Perceptions/creds.png) 
