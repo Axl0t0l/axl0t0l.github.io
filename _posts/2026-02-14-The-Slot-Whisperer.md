@@ -62,8 +62,9 @@ The parameters provided are:
 * M = 2,147,483,647 (A Mersenne Prime, 2^31-1)
 * A = 48,271
 * C = 12,345
-The machine doesn't show us the full internal state Sn it only shows us ```spin = S_n % 100```.
-The Vulnerability LCGs are entirely deterministic. If you know the internal state S_n at any point, you can calculate all future "random" numbers.
+* 
+The machine doesn't show us the full internal state ```Sn``` it only shows us ```spin = S_n % 100```.
+The Vulnerability LCGs are entirely deterministic. If you know the internal state ```Sn``` at any point, you can calculate all future "random" numbers.
 While we are only given the last two digits of the state (the remainder when divided by 100), the modulus M is small enough for a brute-force attack.
 #### Solving Script
 
@@ -126,6 +127,7 @@ and it worked!!
 
 #### Flag
 ```0xfun{sl0t_wh1sp3r3r_lcg_cr4ck3d}```
+
 
 
 ***Hope you enjoyed the writeup, Don't forget to leave a comment or a star on the [github repo](https://github.com/Axl0t0l) (;***
